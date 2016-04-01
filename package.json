@@ -1,0 +1,19 @@
+{
+  "name": "waxeye",
+  "author": {
+    "name": "adabru"
+  },
+  "description": "waxeye-fork, maintained while orlandohill/waxeye does not implement a non-recursive javascript parser",
+  "homepage": "https://github.com/adabru/waxeye#readme",
+  "keywords": [
+    "parser"
+  ],
+  "license": "see LICENSE",
+  "main": "waxeye.js",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adabru/waxeye.git"
+  },
+  "version": "0.9.0"
+}
